@@ -1,2 +1,2 @@
-# 202207_DrawingPractice
+# Public DrawingPractice
  
